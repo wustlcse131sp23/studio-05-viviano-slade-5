@@ -1,7 +1,7 @@
 package studio5;
 
 import edu.princeton.cs.introcs.StdDraw;
-
+ 
 public class Methods {
 
 	/**
